@@ -3,8 +3,8 @@
   "tag_name": "0.20.39.3",
   "assets": [
     {
-      "name": "Clash.for.Windows.Setup.20.39.3.exe",
-      "browser_download_url": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/download/0.20.39.3/Clash.for.Windows.Setup.0.20.39_Opt-3.exe"
+      "name": "Clash.for.Windows-0.20.39-Opt.3-win.zip",
+      "browser_download_url": "https://github.com/Jlz0/Clash-for-Windows_Chinese/releases/download/v0.20.39.3/Clash.for.Windows-0.20.39-Opt.3-win.zip"
     }
   ],
   "body": "- **新版本已发布!**",
